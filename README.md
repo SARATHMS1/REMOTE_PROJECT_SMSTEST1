@@ -10,6 +10,9 @@ clean file
 //send from git master to remote branch1
 
 //changing in remote branch1
+<<<<<<< localbranch2
 //changing in localbranch1
 
 //Making some changes in master
+=======
+>>>>>>> 2dff603 changing in localbranch1
